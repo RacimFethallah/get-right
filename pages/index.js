@@ -9,7 +9,7 @@ import { SiUber } from "react-icons/si";
 import { FaCar, FaPlusCircle, FaCalendarAlt, FaBell } from "react-icons/fa";
 import Link from "next/link";
 import ReservedRidesModal from '../components/ReservedRidesModal';
-import { Toaster, toast } from 'sonner'
+import { Toaster, toast } from 'sonner';
 import { useRef } from "react";
 import { FaExclamationTriangle } from "react-icons/fa";
 
